@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Currently: Exploring new technologies and working on personal projects to enhance my skills.<br><br>🌱 Interests: Backend Development, Full Stack Development, Software Engineering, Machine Learning.<br><br>👨‍💻 Tech Stack: Python, Java, C++, ReactJS, MongoDB, TensorFlow, Git.<br><br>🚀 Projects: I've crafted a variety of projects, ranging from a full-stack e-commerce website built with Django and JavaScript to a sentiment analysis model for social media data.<br><br>📚 Education: Pursuing a Bachelor of Engineering in Electronics and Computer Science from  Mumbai.<br><br>
+🔭 Currently: Exploring new technologies and working on personal projects to enhance my skills.<br><br>🌱 Interests: Backend Development, Full Stack Development, Software Engineering, Machine Learning.<br><br>👨‍💻 Tech Stack: Python, Java, C++, ReactJS, MongoDB, TensorFlow, Git.<br><br>🚀 Projects:<br> 
+<li>Fake News Detection Model</li>
+<li>Hateful Meme Identification using Knowledge Graphs</li>
+<li>Full Stack Web Development Projects (Spring Boot, React, PostgreSQL, Flask, MongoDB, React).</li><br>📚 Education: Pursuing a Bachelor of Engineering in Electronics and Computer Science from  Mumbai.<br><br>
+
 [![](https://visitcount.itsvg.in/api?id=DavidJennicson&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
